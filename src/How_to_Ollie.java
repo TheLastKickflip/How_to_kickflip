@@ -5,6 +5,8 @@ public class How_to_Ollie {
 		
 		
 		System.out.println("Buy a skateboard first! O_o");
+		
+		System.out.println("HELLO JP");
 	}
 
 }
